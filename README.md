@@ -24,8 +24,8 @@ This project demonstrates how A* efficiently finds the shortest path between two
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/astar-visualization.git
-cd astar-visualization
+git clone [https://github.com/yourusername/astar-visualization.git](https://github.com/voIuminous/cpp-pathfinding)
+cd cpp-pathfinding
 ```
 
 2. Build the project
