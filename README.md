@@ -68,4 +68,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Project Link: [https://github.com/yourusername/astar-visualization](https://github.com/yourusername/astar-visualization)
+Project Link: [https://github.com/yourusername/astar-visualization](https://github.com/voIuminous/cpp-pathfinding)
