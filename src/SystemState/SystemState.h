@@ -18,7 +18,7 @@
 #include <unordered_map>
 #include <unordered_set>
 
-#include "Wall.h"
+#include "../Wall/Wall.h"
 
 class SystemState
 {
