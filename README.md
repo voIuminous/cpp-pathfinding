@@ -2,7 +2,7 @@
 
 This project demonstrates how A* efficiently finds the shortest path between two points while avoiding obstacles.
 
-![Project Demo](https://i.imgur.com/M0gLrgs.png)
+![Project Demo](https://imgur.com/a/SRxOWAG)
 
 ## Features
 
